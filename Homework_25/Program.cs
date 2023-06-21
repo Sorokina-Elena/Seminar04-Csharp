@@ -7,7 +7,7 @@
 
 void Print(string text)
 {
-    Console.WriteLine("Введите два числа");
+    Console.WriteLine(text);
 
 }
 
